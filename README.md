@@ -1,5 +1,5 @@
 # Virtual Cloud Unit
-Tracking versions and changes:
+Tracking versions and changes (that are relavant to customers):
 
 ## backlog
 
